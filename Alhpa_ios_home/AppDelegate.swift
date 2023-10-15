@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Alhpa_ios_home
+//  Alpha_ios
 //
-//  Created by Vladislav on 15.10.2023.
+//  Created by Vladislav on 02.10.2023.
 //
 
 import UIKit
@@ -33,4 +33,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
 }
+
+
 

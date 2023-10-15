@@ -1,17 +1,18 @@
 //
 //  ViewController.swift
-//  Alhpa_ios_home
+//  Alpha_ios
 //
-//  Created by Vladislav on 15.10.2023.
+//  Created by Vladislav on 02.10.2023.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+final class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        view.backgroundColor = .systemPink
     }
 
 
